@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.form-container{
+    display:flex;
+    justify-content: right;
+    margin-left:16.5rem;
+    margin-top: 5rem;
+    border-radius: 2.01rem;
+}
+
+
+.form-box{
+    border:0.125rem solid grey;
+    justify-content: right;  
+    height: 32rem;
+    margin-left: 10rem;
+    margin-bottom: 40px;
+  }
+  .forget-container{
+    display:flex;
+    justify-content: right;
+    margin-left:13.5rem;
+
+  }
+  .bg-white{
+    position:static !important;
+  }
+  .Image{
+    margin-bottom: 10.25rem; 
+  }
+  .TEXT{
+    margin-top:6.25rem;
+  }
+  .full-container{
+    height: 10rem;
+  }
